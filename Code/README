@@ -1,1 +1,7 @@
 
+For the demo, the turtlebot was tested in a hallway which was mapped beforehand and where two locations were hardcoded, 
+which are denoted as "location1" and "location2". 
+
+The communication in this project was done using publisher/subscriber, to communicate between the nodes. Where the "mouth" 
+file is the publisher, containing the schedule. And "ear" and "ear2" are the subscribers, which make the turtlebot move to a specific 
+location when an event is triggered. Where "ear" takes the robot to "location1" and "ear2" takes it to "location2". 

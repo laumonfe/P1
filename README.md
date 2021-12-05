@@ -9,3 +9,5 @@ which is a ROS package that helps generate a path which avoids possible obstacle
 
 In order to gain a better insight of the project, go to page 40 on Fundamental Mobile Robotics. 
 The file B261 is a description of how the code for the calendar was implemented. 
+
+![Turtlebot](https://user-images.githubusercontent.com/24587645/144747541-1a2334cb-4225-40bb-81c5-cf38d05efe8e.png)
